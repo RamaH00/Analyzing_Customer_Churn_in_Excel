@@ -69,7 +69,6 @@ The analysis is based on two datasets:
    - PivotTables and calculated fields.
    - Visualizations (charts, graphs).
    - A dashboard summarizing key insights.
-3. **Screenshot 2025-02-10 000620.png**: A screenshot of the final dashboard.
 
 ---
 
