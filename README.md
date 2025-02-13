@@ -99,17 +99,6 @@ The analysis is based on two datasets:
 
 ---
 
-## **Next Steps**
-- **Actionable Recommendations**:
-  - Focus on retaining customers in high-churn demographics (e.g., senior citizens).
-  - Improve service quality to reduce churn due to poor service.
-  - Offer competitive plans to counter competitor offers.
-- **Further Analysis**:
-  - Investigate the impact of customer support interactions on churn.
-  - Analyze the effect of promotional offers on customer retention.
-
----
-
 ## **Author**
 Rama Hammad  
 rama.hammad64@gmail.com
