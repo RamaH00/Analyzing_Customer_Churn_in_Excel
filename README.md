@@ -112,9 +112,5 @@ The analysis is based on two datasets:
 ---
 
 ## **Author**
-Rama Hammad 
+Rama Hammad  
 rama.hammad64@gmail.com
----
-
-## **License**
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
